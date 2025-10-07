@@ -653,6 +653,16 @@ h6 {
   position: relative;
 }
 
+.end-page {
+  background-image: url("../img/end-page.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 1080px; /* Adjust as needed */
+}
+
+
 @media (max-width: 61.99875em) {
   .first-screen {
     margin-top: -114px;
